@@ -6,7 +6,7 @@ const options = {
   port: null,
   path: '/matches/v1/recent',
   headers: {
-    'x-rapidapi-key': '24824a3973mshc81cdb3897dbb40p1f2ccbjsne762e67add4e',
+    'x-rapidapi-key': '',
     'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
   }
 };
